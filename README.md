@@ -12,5 +12,5 @@ isPalind_string() --- boolen funtion to check string is palindrome or not.if pal
 isPrime_num() --- boolen function to check input number is Prime  or not.if Prime return true else false
 
 This is a simple example package. You can use
-(https://github.com/AbhijeetJK/akmath.git)
+(https://github.com/AbhijeetJK/akmathpy.git)
 to write your content.
